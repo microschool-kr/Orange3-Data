@@ -1,2 +1,2 @@
 # Orange3-Data
-Data for orange3 data mining class
+Page for orange3 data mining class
